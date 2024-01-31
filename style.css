@@ -1043,7 +1043,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
   animation-play-state: paused !important;
 }
 
-@media (max-width: 380px) {
+@media (max-width: 350px) {
   .container{
     position: absolute;
     top: 50%;
